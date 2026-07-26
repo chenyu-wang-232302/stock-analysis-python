@@ -1,4 +1,4 @@
+requests>=2.28
 pandas>=1.5
-matplotlib>=3.5
-pyecharts>=2.0
 numpy>=1.23
+pyecharts>=2.0
