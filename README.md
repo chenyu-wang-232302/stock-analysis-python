@@ -16,10 +16,10 @@ Python、Pandas、NumPy、Pyecharts、requests
 ## 📁 仓库文件说明
 - stock_analysis.ipynb：完整jupyter源码（和截图单元格一一对应）
 - report.md：项目实验报告
-- images/result.png：项目运行完整截图（就是你这张长截图）
+- result.png：项目运行完整截图
 
 ## 📊 效果预览
-![运行结果截图](./images/result.png)
+![项目完整运行截图](./result.png)
 
 ## 🚀 运行步骤
 1. 安装依赖
